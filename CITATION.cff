@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Talaial B. Alina
+    email: talaial.alina@colorado.edu
+    affiliation: University of Colorado at Boulder
+    orcid: 'https://orcid.org/0000-0002-7850-0828'
+repository-code: >-
+  https://github.com/ThundaNann/Cavitation-signal-intensity.git
+abstract: >-
+  Calculates signal intensity and can divide result by burst
+  period.
+keywords:
+  - Cavitation
+  - Signal
+commit: 7203462e57cb62323ab00aec1f258910f2df4caf
+version: 1.0.0
+date-released: '2023-02-03'
